@@ -9,7 +9,10 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+- (IBAction)btn_one:(id)sender;
 
+- (IBAction)btn_two:(id)sender;
+- (IBAction)btn_three:(id)sender;
 
 @end
 
